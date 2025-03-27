@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kadijah Barry</h1>
 <h3 align="center">A excited undergrad student from NYC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadijahbarry&label=Profile%20views&color=0e75b6&style=flat" alt="kadijahbarry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadijahbarry" alt="kadijahbarry" /></a> </p>
-
 - 📫 How to reach me **Kadijahbarry256@gmail.com**
 
 - ⚡ Fun fact **My first coding project was a Trivia Quiz made on python.**
